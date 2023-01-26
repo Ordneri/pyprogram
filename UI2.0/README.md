@@ -1,0 +1,1 @@
+# pyqt-fire-detect

@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/mainw">
+        <file>res_mainw/minw.png</file>
+        <file>res_mainw/BT_close_normal.png</file>
+        <file>res_mainw/BT_close_select.png</file>
+        <file>res_mainw/BT_min_normal.png</file>
+        <file>res_mainw/BT_min_Select.png</file>
+        <file>res_mainw/BT_scale_normal_not_switch.png</file>
+        <file>res_mainw/BT_scale_normal_switched.png</file>
+        <file>res_mainw/BT_scale_select_not_switch.png</file>
+        <file>res_mainw/BT_scale_select_switched.png</file>
+        <file>res_mainw/topbar.png</file>
+        <file>res_mainw/BT_close_normal_maxed.png</file>
+        <file>res_mainw/BT_close_select_maxed.png</file>
+        <file>res_mainw/topbar_warning.png</file>
+        <file>res_mainw/bottombar.png</file>
+        <file>res_mainw/bottombar_maxed.png</file>
+        <file>res_mainw/BT_cotip_checked.png</file>
+        <file>res_mainw/BT_cotip_uncheck.png</file>
+    </qresource>
+    <qresource prefix="/uifiles"/>
+</RCC>

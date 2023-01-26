@@ -1,0 +1,1 @@
+pyside6-rcc res_mainwin.qrc -o res_mainwin.py
